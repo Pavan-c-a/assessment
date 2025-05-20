@@ -13,5 +13,5 @@ int main() {
     printf("Quotient = %d\n", quotient);
     printf("Remainder = %d\n", remainder);
 
-    return 0;
+    return 0;printf im yash 
 }
